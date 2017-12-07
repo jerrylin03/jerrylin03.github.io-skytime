@@ -23,8 +23,8 @@
 }
 
 #grad{
-  height: 100%;
-  width: 100%;
+  height: 100vh;
+  width: 100vw%;
   position: relative;
   background: linear-gradient(to bottom, #020111 85%,#191621 100%);
   animation-name: gradient;
