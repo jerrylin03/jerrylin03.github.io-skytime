@@ -1,6 +1,6 @@
 # Skytime
 
-A real time clock with a transitional night and day background
+A real time clock with a transitional sky gradient background
 
 Hosted on <a href="https://jerrylin03.github.io/skytime/">GitHub Pages</a>
 
